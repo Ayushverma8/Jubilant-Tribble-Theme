@@ -29,8 +29,8 @@ And You are good to go..!
 ![Image of Screen3](https://raw.githubusercontent.com/Ayushverma8/jubilant-tribble-Theme/master/screenshots/screen3.png?token=AOo3d7Vvr9oKZR4WD94034B1eb50dbB0ks5Xd354wA%3D%3D)
 
 ###Credits
- -[HTML5 BoilerPlate ](https://github.com/h5bp/html5-boilerplate)
- -[Owl Carousel](https://github.com/OwlFonk/OwlCarousel)
+ - [HTML5 BoilerPlate ](https://github.com/h5bp/html5-boilerplate)  
+ - [Owl Carousel](https://github.com/OwlFonk/OwlCarousel)
 
 
 License

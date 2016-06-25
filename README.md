@@ -7,14 +7,12 @@ A Minimal and Neat theme based on modernizr.js , HTML5 ,CSS3 and Owl Carousel.
   - Lightweight and Easy to Use.
   
 # Version
-3.2.7
+1.0.0
 
 # Demo
 https://ayushverma8.github.io/jubilant-tribble-Theme/
 
-### Tech
 
-Jubilant-Tribble-Themer uses :
 
 ### Installation
 ```sh

@@ -9,6 +9,9 @@ A Minimal and Neat theme based on modernizr.js , HTML5 ,CSS3 and Owl Carousel.
 # Version
 3.2.7
 
+# Demo
+https://ayushverma8.github.io/jubilant-tribble-Theme/
+
 ### Tech
 
 Jubilant-Tribble-Themer uses :

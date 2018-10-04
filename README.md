@@ -1,8 +1,8 @@
 # Jubilant-Tribble-Theme
-A Minimal and Neat theme based on modernizr.js , HTML5 ,CSS3 and Owl Carousel. 
+A Minimalistic and Neat theme based on HTML5 , CSS3 ,modernizr.js and Owl Carousel. 
 
   - Can be used for Personel Resume.
-  - Can be used Professionally.
+  - Can be used for  Professional purposes.
   - Amazingly Responsive.
   - Lightweight and Easy to Use.
   
@@ -22,7 +22,7 @@ $ git pull origin master
 
 
 ```
-And You are good to go..!
+And You are good to go..! Go on!!
 
 ![Image of Screen](https://raw.githubusercontent.com/Ayushverma8/jubilant-tribble-Theme/master/screenshots/screen1.png?token=AOo3d-1icjtmChK-loD7YNFOhK7CU1a1ks5Xd32owA%3D%3D)
 ![Image of Screen2](https://raw.githubusercontent.com/Ayushverma8/jubilant-tribble-Theme/master/screenshots/screen2.png?token=AOo3d2Juf96YKAZWFjJ-BS0B6jtEer1Yks5Xd35BwA%3D%3D)
